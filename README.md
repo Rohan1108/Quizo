@@ -1,5 +1,4 @@
-# Quizzo
-[Live Website](https://vishwas2.pythonanywhere.com/)
+
 
 
 ## <u>Screenshots</u>
